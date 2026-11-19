@@ -1,0 +1,6 @@
+project_id,project_name,planned_progress,actual_progress,budget,spent
+P001,Highway Construction,80,65,500000,420000
+P002,Bridge Development,60,55,300000,250000
+P003,Smart City Project,90,85,800000,750000
+P004,Water Supply Project,70,40,400000,350000
+P005,Railway Development,50,45,600000,500000
